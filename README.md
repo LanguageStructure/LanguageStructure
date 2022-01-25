@@ -9,7 +9,7 @@
 - 📫 fabricio.gerardi at uni-tuebingen.de
 
 <div align="center">
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/LanguageStructure">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LanguageStructure&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LanguageStructure&layout=compact&langs_count=7&theme=dracula"/>
 </div>
