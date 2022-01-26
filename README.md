@@ -6,7 +6,6 @@
 - 👯 I’m looking to collaborate on ...
 - 🤔 People interested in language structure OR Amazonian languages
 - 💬 Ask me about ...
-- 📫 fabricio.gerardi at uni-tuebingen.de
 ##
 <div align="center">
   <a href="https://github.com/LanguageStructure">
