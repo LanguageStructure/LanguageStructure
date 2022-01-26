@@ -4,7 +4,7 @@
 - 🔭 Researcher at a University
 - 🌱 Learning many things
 - 👯 I’m looking to collaborate on ...
-- 🤔 People interested in languag structure OR Amazonian languages
+- 🤔 People interested in language structure OR Amazonian languages
 - 💬 Ask me about ...
 - 📫 fabricio.gerardi at uni-tuebingen.de
 
