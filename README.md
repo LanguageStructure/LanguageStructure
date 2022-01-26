@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Fabrício
+### Hi there 👋
 
 
 - 🔭 Researcher at a University
@@ -20,7 +20,7 @@
   <img align="center" alt="Fab-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Fab-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Fab-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://68.media.tumblr.com/5d98e1a82d4b1e4516944601744f9983/tumblr_o0r8hjFGxE1skcpd2o1_500.gif">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media2.giphy.com/media/VK0qcnl18fk4g/giphy.gif?cid=ecf05e47ggofqz6dpa5qik9n4cc5eop3gmvyi4die7dtw5p5&rid=giphy.gif&ct=g">
 </div>
 
   ##
