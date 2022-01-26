@@ -3,9 +3,7 @@
 
 - 🔭 Researcher at a University
 - 🌱 Learning many things
-- 👯 I’m looking to collaborate on ...
-- 🤔 People interested in language structure OR Amazonian languages
-- 💬 Ask me about ...
+
 ##
 <div align="center">
   <a href="https://github.com/LanguageStructure">
