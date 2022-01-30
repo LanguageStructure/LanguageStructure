@@ -3,7 +3,7 @@
 
 - 🔭 Researcher at a University
 - 🌱 Learning many things
-- 🌎 ![Website](https://languagestructure.github.io)
+- 🌎 [Website](https://languagestructure.github.io)
 
 ##
 <div align="center">
