@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 Researcher at a University
-- 🌱 Learning many things
+- 🔭 Researcher at a University 🌱 
 - 🌎 [Homepage](https://languagestructure.github.io)
 
 ##
