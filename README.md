@@ -1,9 +1,6 @@
 ### Hi there 👋
 
 
-- 🔭 Researcher at a University 🌱 
-- 🌎 [Homepage](https://languagestructure.github.io)
-
 ##
 <div align="center">
   <a href="https://github.com/LanguageStructure">
