@@ -1,7 +1,11 @@
 ### Hi there 👋
 
 
-
+##
+<div align="center">
+  <a href="https://github.com/LanguageStructure">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LanguageStructure&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
 
   ##
